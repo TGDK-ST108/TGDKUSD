@@ -18,7 +18,6 @@ TGDK-USD is the Enso-Stabilized digital asset issued by TGDK LLC, designed to ma
 - **Website:** [https://tgdk.io](https://tgdk.io)
 - **Whitepaper:** [https://tgdk.io/whitepaper](https://tgdk.io/whitepaper)
 - **Twitter:** [https://twitter.com/TGDKOfficial](https://twitter.com/TGDKOfficial)
-- **Telegram:** [https://t.me/TGDKOfficial](https://t.me/TGDKOfficial)
 - **Contract:** [Etherscan Link](https://etherscan.io/token/0x19e74c6Ca74214CcC19363BB9b4C8AfA93590eC6)
 
 ---
